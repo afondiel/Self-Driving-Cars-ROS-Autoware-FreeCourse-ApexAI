@@ -52,33 +52,10 @@ The course comprises 14 courses with an estimation duration of 14H.
 
 ## Setup
 
-The entire course resources is over 1GB size, since the Git repository is limited to a maximum of 500 MB, I had to install Git LFS to upload up to 5 GB per file.
+The entire course resources is over 1GB size, since the Git repository is limited to a maximum of 500 MB per repo. 
 
-This may be interesting either you want to clone or upload the files from a local machine
+Therefore, I didn't upload the kitti dataset examples for [course 13](./13_MARV_Data_Analytics/scanroot/kitti/), which are 1,02 GB, but you can get them from the original course [gitlab repo](https://gitlab.com/ApexAI/autowareclass2020/-/tree/master/lectures).  
 
-1. [Install Git LFS](https://docs.github.com/fr/repositories/working-with-files/managing-large-files/installing-git-large-file-storage) on your local machine
-
-```sh
-git lfs install
-```
-
-2.  Select the file types you'd like Git LFS to manage & track: `.pdf and `.bag` (ROS messages data) 
-
-
-```sh
-git lfs track "*.pdf" "*.bag"
-```
-
-```sh
-git add .gitattributes
-```
-3. (Usual) Commit and push to GitHub 
-
-```sh
-git add file1.pdf file2.bag
-git commit -m "Add new files"
-git push origin main
-```
 
 ## References
 
