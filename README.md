@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/afondiel/Self-Driving-Cars-ROS-Autoware-FreeCourse-ApexAI) ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/afondiel/Self-Driving-Cars-ROS-Autoware-FreeCourse-ApexAI/main) ![Packagist Stars](https://img.shields.io/github/stars/afondiel/Self-Driving-Cars-ROS-Autoware-FreeCourse-ApexAI.svg) ![Packagist forks](https://img.shields.io/github/forks/afondiel/Self-Driving-Cars-ROS-Autoware-FreeCourse-ApexAI.svg) 
+
 # Self-Driving Cars with ROS & Autoware by ApexAI 
 
 
