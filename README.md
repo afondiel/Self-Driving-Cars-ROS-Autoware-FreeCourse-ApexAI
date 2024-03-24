@@ -2,7 +2,6 @@
 
 # Self-Driving Cars with ROS & Autoware by ApexAI 
 
-
 ## Overview
 
 Self-Driving Cars with ROS and Autoware opensource stack by [Autoware Foundation](https://www.autoware.org/) hosted by [ApexAI](Apex.AI).
@@ -46,6 +45,8 @@ The course comprises 14 courses with an estimation duration of 14H.
 
 ## Requirements
 
+- [ADE](https://ade-cli.readthedocs.io/en/latest/intro.html)
+- [ROS, ROS2 ...](https://www.ros.org/)
 - [KITTI dataset](https://www.cvlibs.net/datasets/kitti/)
 - [kitti_ros dataset](https://github.com/AutoLidarPerception/kitti_ros)
 - [MARV Robotics - Tool for Large Data Storage, Analysis, Viewing and Testing](https://roscon.ros.org/2016/presentations/MARVRoboticsPangercic.pdf)
@@ -69,6 +70,11 @@ Therefore, I didn't upload the kitti dataset examples for [course 13](./13_MARV_
   - https://gitlab.com/ApexAI/autowareclass2020/-/tree/master
 - Issues & Forum: 
   - https://gitlab.com/ApexAI/autowareclass2020/-/issues
+
+Additional resources
+
+- [Robotics resources](https://github.com/afondiel/computer-science-open-catalog/tree/master/robotics)
+- [ROS personal notes](https://github.com/afondiel/computer-science-open-catalog/blob/master/robotics/ros/ros-notes.md)
 
 
 
