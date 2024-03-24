@@ -132,3 +132,7 @@ dmypy.json
 
 # doc
 # *.pdf
+ 
+# kitti dataset 1.02G too big
+kitti
+
